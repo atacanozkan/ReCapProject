@@ -1,0 +1,4 @@
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Console\obj\Debug\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache

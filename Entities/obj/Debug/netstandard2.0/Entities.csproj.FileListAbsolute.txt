@@ -1,0 +1,8 @@
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb

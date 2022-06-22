@@ -1,0 +1,12 @@
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
