@@ -7,3 +7,6 @@ D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\obj\Debug\netstanda
 D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
 D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
 D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.dll
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\bin\Debug\netstandard2.0\Core.pdb
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete

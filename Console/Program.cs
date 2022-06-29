@@ -10,28 +10,33 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+            CarTest();
+        }
+
+        private static void CarTest()
+        {
             CarManager carManager = new CarManager(new EfCarDal());
-            
-            foreach (var item in carManager.GetAll())
-                Console.WriteLine(item.Description);
 
-            foreach (var item in carManager.GetCarsByBrandId(1))
-                Console.WriteLine(item.Description);
-
-            foreach (var item in carManager.GetCarsByColorId(2))
-                Console.WriteLine(item.Description);
-
-            Car carAdd = new Car();
-            //carAdd.Id = 5;
-            carAdd.BrandId = 5;
-            carAdd.ColorId = 50;
-            carAdd.DailyPrice = 0;
-            carAdd.ModelYear = 2005;
-            carAdd.Description = "Car 5";
-            carManager.Add(carAdd);
+            //Car carAdd = new Car();
+            ////carAdd.Id = 5;
+            //carAdd.BrandId = 5;
+            //carAdd.ColorId = 50;
+            //carAdd.DailyPrice = 0;
+            //carAdd.ModelYear = 2005;
+            //carAdd.Description = "Car 5";
+            //carManager.Add(carAdd);
 
             foreach (var item in carManager.GetAll())
                 Console.WriteLine(item.Description);
+
+            foreach (var item in carManager.GetCarDetails())
+                Console.WriteLine($"Car Name: {item.CarName}, " +
+                    $"Brand: {item.BrandName}," +
+                    $"Color: {item.ColorName}," +
+                    $"Daily Price: {item.DailyPrice}");
+
+            //foreach (var item in carManager.GetById(1))
+            //    Console.WriteLine(item.Description);
 
             //Car carUpdate = new Car();
             //carUpdate.Id = 5;
@@ -51,8 +56,6 @@ namespace ConsoleApp
 
             //foreach (var item in carManager.GetAll())
             //    Console.WriteLine(item.Description);
-
-
         }
     }
 }

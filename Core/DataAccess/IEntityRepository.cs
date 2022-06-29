@@ -1,9 +1,9 @@
-﻿using Entities.Abstract;
+﻿using Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 
-namespace DataAccess.Abstract
+namespace Core.DataAccess
 {
     // Generic constraint
     // T tipini sınırlandırabilmek için kullanılır
@@ -11,7 +11,7 @@ namespace DataAccess.Abstract
     // new() : new'lenebilir olmalı. IEntity new'lenemeyeceği için sadece IEntity'yi implement eden bir nesne olabilir
     public interface IEntityRepository<T> where T:class,IEntity, new()
     {
-        List<T> GetAll(Expression<Func<T, bool>> filter = null);
+        List<T> GetAll(Expression<Func<T,  bool>> filter = null);
         T Get(Expression<Func<T, bool>> filter);
         void Add(T entity);
         void Update(T entity);

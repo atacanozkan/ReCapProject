@@ -10,3 +10,5 @@ D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\obj\Debug\netstan
 D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
 D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
 D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb

@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 namespace DataAccess.Concrete.EntityFramework
 {
     //Context : Db tabloları ile proje classlarını bağlamak
-    public class CarsContext: DbContext
+    public class ReCapContext: DbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -13,6 +13,6 @@ namespace DataAccess.Concrete.EntityFramework
 
         public DbSet<Car> Cars { get; set; }
         public DbSet<Brand> Brands { get; set; }
-        public DbSet<Color> Color { get; set; }
+        public DbSet<Color> Colors { get; set; }
     }
 }

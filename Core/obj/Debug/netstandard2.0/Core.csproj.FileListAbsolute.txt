@@ -1,0 +1,9 @@
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Core\bin\Debug\netstandard2.0\Core.dll
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Core\obj\Debug\netstandard2.0\Core.dll
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Core\obj\Debug\netstandard2.0\Core.pdb
+D:\Calisma\c_charp\kodlama.io\Projects\ReCapProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
