@@ -9,39 +9,7 @@ namespace Entities.Concrete
         public int BrandId { get; set; }
         public int ColorId { get; set; }
         public int ModelYear { get; set; }
-
-        private decimal dailyPrice;
-        public decimal DailyPrice
-        {
-            get
-            {
-                return dailyPrice;
-            }
-            set
-            {
-                if (value <= 0)
-                {
-                    Console.WriteLine("Price value must be greater than 0");
-                }
-                else
-                    dailyPrice = value;
-            }
-        }
-
-        private string description;
-        public string Description
-        {
-            get
-            {
-                return description;
-            }
-            set
-            {
-                if(value.Length<2)
-                    Console.WriteLine("Minimum character length must be 2");
-                else
-                    description = value;
-            }
-        }
+        public decimal DailyPrice { get; set; }
+        public string Description { get; set; }
     }
 }
